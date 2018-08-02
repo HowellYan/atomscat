@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Centos 7.x 安装"
+date:   2018-08-02 22:52:11 +0800
+categories: Linux
+---
+#1、 下载ISO镜像
+
+#2、 Vmware
